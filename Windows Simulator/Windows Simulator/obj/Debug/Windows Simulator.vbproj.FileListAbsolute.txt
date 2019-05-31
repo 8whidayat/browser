@@ -1,0 +1,11 @@
+C:\Users\fathur\AppData\Local\Temporary Projects\Windows Simulator\bin\Debug\Windows Simulator.exe
+C:\Users\fathur\AppData\Local\Temporary Projects\Windows Simulator\bin\Debug\Windows Simulator.pdb
+C:\Users\fathur\AppData\Local\Temporary Projects\Windows Simulator\bin\Debug\Windows Simulator.xml
+C:\Users\fathur\AppData\Local\Temporary Projects\Windows Simulator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fathur\AppData\Local\Temporary Projects\Windows Simulator\obj\Debug\Windows_Simulator.Form1.resources
+C:\Users\fathur\AppData\Local\Temporary Projects\Windows Simulator\obj\Debug\Windows_Simulator.Resources.resources
+C:\Users\fathur\AppData\Local\Temporary Projects\Windows Simulator\obj\Debug\Windows Simulator.vbproj.GenerateResource.Cache
+C:\Users\fathur\AppData\Local\Temporary Projects\Windows Simulator\obj\Debug\Windows Simulator.exe
+C:\Users\fathur\AppData\Local\Temporary Projects\Windows Simulator\obj\Debug\Windows Simulator.xml
+C:\Users\fathur\AppData\Local\Temporary Projects\Windows Simulator\obj\Debug\Windows Simulator.pdb
+C:\Users\fathur\AppData\Local\Temporary Projects\Windows Simulator\obj\Debug\Windows_Simulator.Firefox.resources
